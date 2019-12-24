@@ -9,12 +9,9 @@ class School
   def initialize
     @name=name
     @roster = roster
-    roster
+    
   end
   
-  
-  def self
-  @@roster
-  end
+
   
 end
