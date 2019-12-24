@@ -2,13 +2,13 @@
 
 
 class School
-  @@roster = {}
+  roster = {}
   attr_accessor :name
   
   
   def initialize
     @name=name
-    @@roster << self
+    roster
   end
   
   
