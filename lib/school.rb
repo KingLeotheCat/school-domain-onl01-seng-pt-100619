@@ -12,6 +12,8 @@ class School
   end
   
   
+  def self
   
+  end
   
 end
