@@ -13,7 +13,7 @@ class School
   
   
   def self
-  
+  @@roster
   end
   
 end
