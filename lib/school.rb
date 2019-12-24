@@ -8,7 +8,7 @@ class School
   
   def initialize
     @name=name
-    @@roster
+    @@roster << self
   end
   
   
